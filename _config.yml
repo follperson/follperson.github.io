@@ -14,7 +14,7 @@ picture: assets/images/leiby_profile.jpg
 # and specify source (external or local).
 resume: true
 resume-external: false
-resume-url: https://google.com/?q=my+resume
+resume-url: assets/documents/resume.pdf
 
 url: http://follperson.github.io
 
@@ -33,17 +33,17 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: https://www.facebook.com/Follmann
-twitter: https://twitter.com/foll_person
+facebook: Follmann
+twitter: foll_person
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-linkedin: https://www.linkedin.com/in/andrew-follmann-47554372/
+linkedin: andrew-follmann-47554372/
 # youtube: myyoutube
-spotify: https://open.spotify.com/user/mathtractor?si=_SlZYd8CQjmPGVmq2LqdQQ
-github: https://github.com/follperson
+spotify: mathtractor?si=_SlZYd8CQjmPGVmq2LqdQQ
+github: follperson
 # gitlab: mygitlab
-lastfm: https://www.last.fm/user/mathtractor
+lastfm: mathtractor
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
