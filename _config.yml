@@ -14,7 +14,7 @@ picture: /assets/images/leiby_profile.jpg
 # and specify source (external or local).
 resume: true
 resume-external: false
-resume-url: assets/documents/resume.pdf
+resume-url: /assets/documents/resume.pdf
 
 url: http://follperson.github.io
 
@@ -80,7 +80,7 @@ projects: true
 
 # if you don't need "about" or "blog", comment them out below
 about: true
-blog: true
+# blog: true
 
 # do you want to show the "read time" of the posts?
 # read-time: true
