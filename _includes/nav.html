@@ -32,7 +32,7 @@
 
         {% if site.resume == true %}
             <li class="item">
-                <a>[Résumé]({% if site.resume-external %}{{ site.resume-url }}{% else %}{{ site.url }}/{{ site.resume-url }}{% endif %})</a>
+                <a class="link" href="{% if site.resume-external %}{{ site.resume-url }}{% else %}{{ site.url }}/{{ site.resume-url">Résumé</a>
             </li>
         {% endif %}
     </ul>
