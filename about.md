@@ -23,14 +23,19 @@ Please follow the links on the title bar to find my Github profile (mostly priva
 
 This static website was written using [Jekyll](https://jekyllrb.com), and is hosted via [Github Pages](https://pages.github.com/)
 
+Photo credit: [Julia Delfino Leiby](http://julialeiby.com/)
+
 <h2>Skills</h2>
 
 <ul class="skill-list">
 	<li>Git</li>
 	<li>Python</li>
-	<li>Editing</li>
 	<li>MySQL</li>
+	<li>Editing</li>
 	<li>Machine Learning</li>
+	<li>LaTeX</li>
+	<li>PowerShell</li>
+	<li>Microsoft Excel</li>
 </ul>
 
 <h2>Projects</h2>
@@ -38,4 +43,6 @@ This static website was written using [Jekyll](https://jekyllrb.com), and is hos
 <ul>
 	<li><a href="https://github.com/follperson/smart_alarm">smart_alarm</a></li>
 	<li><a href="https://github.com/follperson/wiki-tweeter">wiki-tweeter</a></li>
+	<li><a href="https://github.com/follperson/music-blog-project">music-blog-scraper</a></li>
+	<li><a href="https://github.com/follperson/breakfast-recipe-scraper">breakfast-recipe-scraper</a></li>
 </ul>

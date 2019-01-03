@@ -1,9 +1,9 @@
 # main text of home
-name: Andrew Follmann
-bio: amateur data scientist and software developer, autodidact
+name: andrew Follmann
+bio: software developer and amateur data scientist
 
 # twitter summary info
-description: Web home for my personal and professional projects and curiosities
+description: home for my professional projects and personal curiosities
 
 # if it's an external image, update below for true
 # better with square images
@@ -54,8 +54,8 @@ email: follmann.andrew@gmail.com
 
 authors:
     afollmann:
-        name: Andrew Follmann
-        bio: I'm just a boy
+        name: andrew Follmann
+        bio: thanks for reading!
         external-image: false
         picture: assets/images/leiby_profile.jpg
         twitter: foll_person
