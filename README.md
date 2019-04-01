@@ -1,4 +1,4 @@
-#README
+# README
 
 This site was branched from the [Indigo Jekyll theme](http://sergiokopplin.github.io/indigo) under the MIT License.
 
