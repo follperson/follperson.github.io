@@ -16,12 +16,12 @@ resume: true
 resume-external: false
 resume-url: /assets/documents/resume.pdf
 
-url: http://follperson.github.io
+url: https://follperson.github.io
 
 permalink: /:title/
 
 #To enable google analytics, supply your token below
-analytics-google: "UA-132566565-1"
+# analytics-google: "UA-132566565-1"
 
 # To enable piwik tracking, supply your url & site ID below
 # analytics-piwik-url: 'piwik.my-host.com'
