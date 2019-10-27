@@ -40,6 +40,6 @@ Photo credit: [Julia Delfino Leiby](http://julialeiby.com/)
 	<li><a href="https://github.com/follperson/smart_alarm">smart_alarm</a></li>
 	<li><a href="https://github.com/follperson/wiki-tweeter">wiki-tweeter</a></li>
 	<li><a href="https://github.com/follperson/music-blog-project">music-blog-scraper</a></li>
-	<li><a href="https://github.com/follperson/breakfast-recipe-scraper">many-breakfasts</a></li>
+	<li><a href="https://github.com/follperson/many-breakfasts">many-breakfasts</a></li>
 	<li><a href="https://github.com/follperson/youtube-transcript-scraper">youtube-transcript-scraper</a></li>
 </ul>
