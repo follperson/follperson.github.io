@@ -9,7 +9,7 @@ I'm a young professional interested in statistics applied to modern data, especi
 
 I am am currently a graduate student in the [Department of Statistics and Data Science](http://www.stat.cmu.edu/) at Carnegie Mellon. I'm studying applied methods and computational tools for modern statistical application, with attention to both data science and traditional statistical applications. I hold a BA in Economics from Oberlin College, and concentrations in psychology, politics and mathematics. I have particular interest in computational methods for social science applications (ABM, network analysis), and Natural Language Processing tasks + computational linguistics. 
 
-Take a look at my [resume] ({{ site.url }}{{site.resume-url}}) for more detail from my professional life before that.
+Take a look at my [resume]({{ site.url }}{{site.resume-url}}) for more detail from my professional life before that.
 
 I am an everyday cyclist, as well as a cycle tourist when I find the time. I practice Contact Improvisation, enjoy baking breads, and supporting to DIY music shows. 
 
