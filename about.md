@@ -4,10 +4,14 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-
-I'm a young professional interested in statistics applied to modern data, especially social networked data.
-
-I am am currently a graduate student in the [Department of Statistics and Data Science](http://www.stat.cmu.edu/) at Carnegie Mellon. I'm studying applied methods and computational tools for modern statistical application, with attention to both data science and traditional statistical applications. I hold a BA in Economics from Oberlin College, and concentrations in psychology, politics and mathematics. I have particular interest in computational methods for social science applications (ABM, network analysis), and Natural Language Processing tasks + computational linguistics. 
+I am currently a graduate student in the 
+[Department of Statistics and Data Science](http://www.stat.cmu.edu/) at Carnegie Mellon. 
+I'm studying applied methods and computational tools for modern statistical application, 
+with attention to both data science and traditional statistical applications. 
+I hold a BA in Economics from Oberlin College, and concentrations in psychology, 
+politics and mathematics. I have particular interest in computational methods for social 
+science applications (ABM, network analysis), and Natural Language 
+Processing tasks + computational linguistics. 
 
 Take a look at my [resume]({{ site.url }}{{site.resume-url}}) for more detail from my professional life before that.
 
@@ -22,7 +26,7 @@ Photo credit: [Julia Delfino Leiby](http://julialeiby.com/)
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>Python <i>(pandas, numpy, scipy, scikit.learn, requests, selenium)</i></li>
+	<li>Python <i>(pandas, numpy, scipy, sklearn, requests, flask)</i></li>
 	<li>R</li>
 	<li>SQL(Postgres, MySQL)</li>
 	<li>Git</li>
