@@ -13,20 +13,11 @@ author: afollmann
 externalLink: false
 ---
 
-I wanted to get this out into the world, to prove that I exist, or have existed, at least. 
+I took a semester in undergrad (Fall 2014) working on an econcomics research project, trying to review ostensible gentrification in New York City, and any reaction in the cities budget. 
+A common theme of those decrying gentrification is that poor, underclass communities are underserved by the municipal government, while gentrifying neighborhoods experience reinvestment. 
+I took sanitation expenditure as my metric for city investment, and identified how it changed over time along with common indicators of gentrification - primarily rising home ownership, declining median age, and rising median income. 
 
-In this purported existence, I even graduated from Oberlin College, with a degree (and Honors) in Economics. 
+Overall, I did not find evidence of city preference for sanitation expenditure due to the primary gentrification indicators, but did find changes according to city zoning characteristics. 
 
-As required for the completion of the degree in Economics, I conducted independent and novel research on a subject of my choosing. 
-A topic which continues to occupy a substantial amount of the liberal mind, I wanted to look at gentrification. Specifically, I wanted to look at how the municipal government would act, or react, to gentrification. Gentrification posits the existence of an underclass, the poor, largely minority, prior residents. If there is an underclass outside of just these demographic characteristics, does the city government treat it differently in terms of resource distribution? Did the city in fact demonstrate a preference for the white, wealthy, and landed people through disparate expenditure on public goods?
-
-Though these are much larger questions than I was able to address, much less answer, they informed my thought and method. In the end, I focused on sanitation spending (trash pickup, snow removal), and police expenditure. 
-
-Read and review as you will, there are problems with the piece, but I can't hide forever! Comments welcome, find me at {{ site.email }}
-
----
-
-[Find a copy here]({{site.url}}/assets/documents/Follmann_economics_thesis.pdf)
-
----
+For a deeper look please review [the paper itself.]({{site.url}}/assets/documents/Follmann_economics_thesis.pdf)
 
