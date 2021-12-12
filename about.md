@@ -43,12 +43,12 @@ For more detail on my professional background, take a look at my [resume]({{site
 
 
 I am an everyday cyclist, as well as a cycle tourist when I find the time. I have three bikes at the moment, 
-a [ruby red '81 Schwinn Traveler](({{site.url}}/assets/images/fixie-pgh.jpg)) converted to a city fixie,
-a ['94 forest green Shogun Alpine GT](({{site.url}}/assets/images/bike-selfie.jpg)) for touring,
+a [ruby red '81 Schwinn Traveler]({{site.url}}/assets/images/fixie-pgh.jpg) converted to a city fixie,
+a ['94 forest green Shogun Alpine GT]({{site.url}}/assets/images/bike-selfie.jpg) for touring,
 and a middling hard tail aluminum mountain bike I don't know enough about! 
 
 I've cycled down the [West Coast]({{site.url}}/assets/images/ca-coast.jpg) from [Canada to Mexico]({{site.url}}/assets/images/ca-bike.jpg), 
-around [Northern Italy and Tuscany]({{site.url}}/assets/images/Tuscan-O.jpg), 
+around [Northern Italy and Tuscany]({{site.url}}/assets/images/tuscan-O.JPG), 
 and the length of the [Blue Ridge Parkway]({{site.url}}/assets/images/blue-ridge-bike.jpg), from Maryland through North Carolina, 
 as well as other shorter tours in between. 
 I love the outdoors, and try to get out hiking, camping, mountain biking, and skiing as often as I can.
@@ -117,29 +117,3 @@ without a garden to tend.
     - Python (*Bs4, requests*)
 - [Follzam](https://github.com/follperson/follzam)
     - Python (*Sqlalchemy, scipy.signal, numpy*)
-
-
-<h2>Skills</h2>
-
-<ul class="skill-list">
-	<li>Python <i>(pandas, numpy, scipy, sklearn, requests, flask, tensorflow)</i></li>
-	<li>R</li>
-	<li>SQL(Postgres, MySQL)</li>
-	<li>Git</li>
-	<li>LaTeX</li>
-	<li>shell scripting</li>
-	<li>Microsoft Excel</li>
-	<li>Machine Learning</li>
-	<li>Web Scraping</li>
-	<li>Data ETL / pipeline development</li>
-</ul>
-
-<h2>Projects</h2>
-
-<ul>
-	<li><a href="https://github.com/follperson/smart_alarm">smart_alarm</a></li>
-	<li><a href="https://github.com/follperson/wiki-tweeter">wiki-tweeter</a></li>
-	<li><a href="https://github.com/follperson/music-blog-project">music-blog-scraper</a></li>
-	<li><a href="https://github.com/follperson/many-breakfasts">many-breakfasts</a></li>
-	<li><a href="https://github.com/follperson/youtube-transcript-scraper">youtube-transcript-scraper</a></li>
-</ul>

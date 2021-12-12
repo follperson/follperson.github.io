@@ -16,7 +16,7 @@ personalpicutre: /assets/images/flower-selfie.jpg
 # and specify source (external or local).
 resume: true
 resume-external: false
-resume-url: /assets/documents/resume-Dec-2021.pdf
+resume-url: assets/documents/resume-Dec-2021.pdf
 
 url: https://follperson.github.io
 
