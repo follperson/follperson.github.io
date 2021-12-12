@@ -18,6 +18,10 @@ from government clients. Recently, I led a small team which competed and awarded
 which was a fun and rewarding deep dive into Synthetic Aperture Radar data and satellite imagery generally. 
 I also am working on a mixture modeling python package, which is forthcoming.
 
+I'm interested in using my data science skills to mitigate climate change, and
+am currently volunteering with [Climate Farmers](https://www.climatefarmers.org/), trying to open source climate models, 
+and data for farmers to use and explore returns on hypothetical regenerative practices. 
+
 I have a Masters from the [Department of Statistics and Data Science](http://www.stat.cmu.edu/) at Carnegie Mellon, 
 with a curriculum oriented towards application and good software practice. Previously I worked at The Oakleaf Group, 
 a small financial analysis firm primarily supporting litigation against the trustees (big banks) who did not, 
@@ -39,6 +43,8 @@ For more detail on my professional background, take a look at my [resume]({{site
 
 ### Personal
 
+I live in the Petworth, neighborhood of Washington D.C., with my fiance Alex, our cat [Mingus]({{site.url}}/assets/images/mingus-shelf.jpg), and a sprawling collectiong
+of [houseplants]({{site.url}}/assets/images/houseplants-sunroom.jpg) (what's one to do with no garden to tend?). 
 
 I am an everyday cyclist, as well as a cycle tourist when I find the time. I have three bikes at the moment, 
 a [ruby red '81 Schwinn Traveler]({{site.url}}/assets/images/fixie-pgh.jpg) converted to a city fixie,
@@ -49,10 +55,6 @@ I've cycled down the [West Coast]({{site.url}}/assets/images/ca-coast.jpg) from 
 around [Northern Italy and Tuscany]({{site.url}}/assets/images/tuscan-O.JPG), 
 and the length of the [Blue Ridge Parkway]({{site.url}}/assets/images/blue-ridge-bike.jpg), from Maryland through North Carolina, 
 as well as other shorter tours in between. 
-I love the outdoors, and try to get out hiking, camping, mountain biking, and skiing as often as I can.
-
-I do my best to bring nature indoors with me, with a sprawling houseplant collection - making due as best I can 
-without a garden to tend. 
 
 
 ## Skills 
