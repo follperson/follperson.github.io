@@ -1,6 +1,6 @@
 # main text of home
-name: andrew (andy) Follmann 
-bio: data scientist and software developer
+name: andrew Follmann
+bio: Data Scientist
 
 # twitter summary info
 description: home for my professional projects and personal curiosities
@@ -8,13 +8,15 @@ description: home for my professional projects and personal curiosities
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: /assets/images/leiby_profile.jpg
+picture: /assets/images/hat-outdoors.JPG
+
+personalpicutre: /assets/images/flower-selfie.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
 resume: true
 resume-external: false
-resume-url: /assets/documents/resume.pdf
+resume-url: /assets/documents/resume-Dec-2021.pdf
 
 url: https://follperson.github.io
 
@@ -33,12 +35,12 @@ analytics-google: UA-132566565-1
 #  categories: #[blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: Follmann
-twitter: foll_person
+#facebook: Follmann
+#twitter: foll_person
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-linkedin: andrew-follmann-47554372/
+linkedin: andrewfollmann/
 # youtube: myyoutube
 spotify: mathtractor?si=_SlZYd8CQjmPGVmq2LqdQQ
 github: follperson
@@ -80,10 +82,10 @@ about: true
 # read-time: true
 
 # do you want to show the "tags" inside the posts?
-show-tags: true
+#show-tags: true
 
 # related posts inside a post?
-related: true
+#related: true
 
 # Display links for next and previous posts for the specified categories
 post-advance-links: [blog]
