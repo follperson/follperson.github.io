@@ -28,14 +28,12 @@ to support financial analysts.
 
 My undergraduate work was in mathematical economics at Oberlin College, with substantial coursework in psychology and politics. 
 My undergraduate honors thesis explored the [geographic distribution of urban public services, specifically
-sanitation and police expenditure in New York City]({{site.url}}/EconThesis.html)
+sanitation and police expenditure in New York City]({{site.url}}/EconThesis/)
 
 For more detail on my professional background, take a look at my [resume]({{site.url}}{{site.resume-url}}) 
 
-<br>
-<br>
-<br>
-<br>
+<hr><br><br><br><br>
+
 
 ![Profile Image]({{ site.url }}/{{ site.personalpicutre }})
 
