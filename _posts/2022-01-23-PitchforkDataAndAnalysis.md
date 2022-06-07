@@ -1,5 +1,5 @@
 ---
-title: "Pitchfork Data Release and preliminary analysis. "
+title: "Pitchfork Data Release and preliminary analysis"
 layout: post
 date: 2022-01-23 11:00
 tag: pitchfork, data-release, data, analysis

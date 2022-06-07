@@ -1,7 +1,7 @@
 ---
-title: "Pitchfork Genre Classification, "
+title: "Pitchfork Genre Classification"
 layout: post
-date: 2022-01-23 11:00
+date: 2022-02-27 11:00
 tag: pitchfork, classification
 image: assets\images\p4k-logo.jpg
 headerImage: true
