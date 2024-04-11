@@ -13,7 +13,7 @@ where I build models and ML infrastructure to support customer acquisiton and so
 
 I have a Masters Degree (2020) from the [Department of Statistics and Data Science](http://www.stat.cmu.edu/) at Carnegie Mellon. 
 I previously held a position at Thomson Reuters, working on [anomaly detection using mixture models]({{site.url}}/Anomix),
-[ship detection on SAR imagery]({{site.url}}/xView3), and [social network analysis]({{site.url}}/Community-Detection). Prior to that I spent some time
+[ship detection on SAR imagery]({{site.url}}/xView3), and [social network analysis]({{site.url}}/community-detection-social-media). Prior to that I spent some time
 building experience with Residential Mortgage Backed Securities at [The Oakleaf Group](https://oakleaf.com/).
 
 My undergraduate work was in mathematical economics at Oberlin College, with substantial coursework in psychology and politics. 
