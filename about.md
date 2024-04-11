@@ -29,8 +29,8 @@ For more detail on my professional background, take a look at my [resume]({{site
 ### Personal
 
 I live in the Takoma/Manor Park, Washington D.C., with my wife Alex, our daughter Lassen and our two cats 
-[Mingus]({{site.url}}/assets/images/mingus-shelf.jpg) 
-and [Dizzie]({{site.url}}/assets/images/dizzy.jpg).
+[Mingus]({{site.url}}/assets/images/mingus-shelf.JPG) 
+and [Dizzie]({{site.url}}/assets/images/Dizzie.jpg).
 
 I am an everyday cyclist, as well as a cycle tourist when I find the time. I have three bikes at the moment, 
 a [ruby red '81 Schwinn Traveler]({{site.url}}/assets/images/fixie-pgh.jpg) converted to a city fixie,
