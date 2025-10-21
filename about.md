@@ -6,10 +6,10 @@ layout: page
 
 ## Bio
 
-### Profesional
+### Professional
 
 Hi, and welcome! My name is Andrew Follmann Wyld (He/him/his), and I am a data scientist. I currently work for [CleanChoice Energy](https://cleanchoiceenergy.com/), 
-where I build models and ML infrastructure to support customer acquisiton and solar array facility siting. 
+where I build models and ML infrastructure to support customer acquisiton, solar array facility siting, and energy market pricing. 
 
 I have a Masters Degree (2020) from the [Department of Statistics and Data Science](http://www.stat.cmu.edu/) at Carnegie Mellon. 
 I previously held a position at Thomson Reuters, working on [anomaly detection using mixture models]({{site.url}}/Anomix),
